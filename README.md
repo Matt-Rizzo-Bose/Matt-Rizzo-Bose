@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm Matt Rizzo!
 
-<!--
-**Matt-Rizzo-Bose/Matt-Rizzo-Bose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+## ✉️ Find me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See my personal GitHub for more information about me: [MatthewRizzo](https://github.com/MatthewRizzo)
+
+## My Statistics :)
+
+### Personal Projects & Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewRizzo&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewRizzo&theme=tokyonight&hide=HTML&count_private=true)
+
+### Professional Project Contributions & Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Rizzo-Bose&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-Rizzo-Bose&theme=tokyonight&hide=HTML&count_private=true)
